@@ -2,6 +2,10 @@
 
 I'm a student enrolled in the master’s course of Computer Science Engineering at the University of Bergamo
 
+<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
+
+### About me
+
 :compass: [samuelexferri.com](https://www.samuelexferri.com)
 
 :email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
@@ -12,8 +16,6 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 :rainbow: Check a visual profile from my GitHub repositories on [Sourcerer](https://sourcerer.io/samuelexferri)!
 
-![](https://komarev.com/ghpvc/?username=samuelexferri&style=flat-square)
+### Stats
 
-<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
-
-<p align='center'>&nbsp;<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/></p>
+&nbsp;<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
