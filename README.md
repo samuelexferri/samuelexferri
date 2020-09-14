@@ -6,9 +6,9 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 :email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
 
-:round_pushpin: Bergamo, Italy
+:round_pushpin: &nbsp; Bergamo, Italy
 
-:key: **GPG Fingerprint**: CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362 ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
+:key: GPG Fingerprint: *CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362* ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
 
 :rainbow: Check a visual profile from my GitHub repositories on [Sourcerer](https://sourcerer.io/samuelexferri)!
 
