@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! My name is Samuele Ferri! 👋
 
-<!--
-**samuelexferri/samuelexferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student enrolled in the master’s course of Computer Science Engineering at the University of Bergamo
 
-Here are some ideas to get you started:
+:compass: [samuelexferri.com](https://www.samuelexferri.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
+
+:key: **GPG Fingerprint**: CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362 ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
+
+<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/Up.png"></p>
+  
+<p align='center'>&nbsp;<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/></p>
+
+<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/Down.png"></p>
