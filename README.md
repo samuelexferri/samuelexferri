@@ -1,6 +1,6 @@
-### Hi there! My name is Samuele Ferri! 👋
+### Hello I'm Samuele Ferri! 👋
 
-I'm a student enrolled in the master’s course of Computer Science Engineering at the University of Bergamo
+I'm a student enrolled in the master’s course of Computer Science Engineering at the University of Bergamo.
 
 <p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
 
@@ -9,6 +9,8 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 :compass: [samuelexferri.com](https://www.samuelexferri.com)
 
 :email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
+
+:telephone_receiver: Private
 
 :round_pushpin: &nbsp; Bergamo, Italy
 
