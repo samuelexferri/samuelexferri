@@ -8,7 +8,7 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 :compass: [samuelexferri.com](https://www.samuelexferri.com)
 
-:email: <mailto:samuelexferri@gmail.com>
+:email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
 
 :telephone_receiver: Private
 
@@ -21,3 +21,5 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 ### Stats
 
  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
+ 
+ <img width=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
