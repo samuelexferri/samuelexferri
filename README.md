@@ -16,10 +16,8 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 :key: GPG Fingerprint: _CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362_ ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
 
-:rainbow: Check a visual profile from my GitHub repositories on [Sourcerer](https://sourcerer.io/samuelexferri)!
-
 ### Stats
 
- <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
- 
- <img width=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
+
+:rainbow: Check a visual profile from my GitHub repositories on [Sourcerer](https://sourcerer.io/samuelexferri)!
