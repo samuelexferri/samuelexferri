@@ -19,8 +19,6 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 ### Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 532 Contributions in the Year 2020
