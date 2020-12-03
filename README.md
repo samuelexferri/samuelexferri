@@ -18,6 +18,9 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 ### Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelexferri&show_icons=true" alt="samuelexferri"/>
 
 :rainbow: Check a visual profile from my GitHub repositories on [Sourcerer](https://sourcerer.io/samuelexferri)!
