@@ -23,7 +23,7 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 > 🏆 601 Contributions in the Year 2020
  > 
-> 📦 741.0 kB Used in Github's Storage 
+> 📦 741.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
