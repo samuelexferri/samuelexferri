@@ -76,11 +76,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-GAMS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+GAMS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
