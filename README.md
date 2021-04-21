@@ -21,7 +21,7 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 148 Contributions in the Year 2021
+> 🏆 149 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
