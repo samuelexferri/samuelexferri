@@ -21,7 +21,7 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 281 Contributions in the Year 2021
+> 🏆 282 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -35,8 +35,8 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 ```text
 🌞 Morning    160 commits    █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-🌆 Daytime    375 commits    ████████████░░░░░░░░░░░░░   47.77% 
-🌃 Evening    246 commits    ███████░░░░░░░░░░░░░░░░░░   31.34% 
+🌆 Daytime    376 commits    ████████████░░░░░░░░░░░░░   47.9% 
+🌃 Evening    245 commits    ███████░░░░░░░░░░░░░░░░░░   31.21% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 ```
@@ -90,5 +90,5 @@ GAMS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelexferri/samuelexferri/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2021
+ Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
