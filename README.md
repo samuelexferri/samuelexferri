@@ -21,7 +21,7 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 284 Contributions in the Year 2021
+> 🏆 285 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -34,8 +34,8 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    160 commits    █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-🌆 Daytime    377 commits    ████████████░░░░░░░░░░░░░   48.03% 
+🌞 Morning    159 commits    █████░░░░░░░░░░░░░░░░░░░░   20.25% 
+🌆 Daytime    378 commits    ████████████░░░░░░░░░░░░░   48.15% 
 🌃 Evening    244 commits    ███████░░░░░░░░░░░░░░░░░░   31.08% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
@@ -44,8 +44,8 @@ I'm a student enrolled in the master’s course of Computer Science Engineering 
 
 ```text
 Monday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Tuesday      127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
-Wednesday    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
+Tuesday      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+Wednesday    144 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
 Thursday     179 commits    █████░░░░░░░░░░░░░░░░░░░░   22.8% 
 Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
 Saturday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
@@ -90,5 +90,5 @@ GAMS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelexferri/samuelexferri/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2021
+ Last Updated on 01/07/2021
 <!--END_SECTION:waka-->
