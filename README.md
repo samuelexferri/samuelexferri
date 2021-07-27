@@ -1,6 +1,6 @@
 ### Hello I'm Samuele Ferri! 👋
 
-I'm a student enrolled in the master’s course of Computer Science Engineering at the University of Bergamo.
+Software Engineer graduated in in the master’s course of Computer Science Engineering at the University of Bergamo.
 
 <p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
 
