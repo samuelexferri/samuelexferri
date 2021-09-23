@@ -21,13 +21,13 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 302 Contributions in the Year 2021
+> 🏆 303 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -90,5 +90,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelexferri/samuelexferri/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
