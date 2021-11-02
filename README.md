@@ -21,7 +21,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 370 Contributions in the Year 2021
+> 🏆 371 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -29,7 +29,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -76,11 +76,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
@@ -90,5 +90,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelexferri/samuelexferri/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
