@@ -12,7 +12,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 
 :telephone_receiver: Private
 
-:round_pushpin:   Bergamo, Italy
+:round_pushpin: Bergamo, Italy
 
 :key: GPG Fingerprint: _CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362_ ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
 
