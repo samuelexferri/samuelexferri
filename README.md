@@ -92,3 +92,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
  Last Updated on 24/01/2022 12:16:08 UTC
 <!--END_SECTION:waka-->
+
+![](./profile-3d-contrib/profile-season-animate.svg)
