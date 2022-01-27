@@ -19,6 +19,22 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 ### Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 16 Contributions in the Year 2022
+ > 
+> 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+
+ Last Updated on 27/01/2022 12:50:50 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
