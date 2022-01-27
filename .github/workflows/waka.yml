@@ -3,6 +3,8 @@ name: Waka
 on:
   schedule:
     - cron: '00 12 * * *'
+  push:
+    branches: [ master ]
 
 jobs:
   update-readme:
