@@ -21,18 +21,18 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 20 Contributions in the Year 2022
+> 🏆 22 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 18 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 
- Last Updated on 08/02/2022 12:19:17 UTC
+ Last Updated on 10/02/2022 12:19:54 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
