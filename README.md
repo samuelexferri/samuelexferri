@@ -32,7 +32,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 > 🔑 6 Private Repositories  
  > 
 
- Last Updated on 18/03/2022 12:22:44 UTC
+ Last Updated on 24/03/2022 12:24:01 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
