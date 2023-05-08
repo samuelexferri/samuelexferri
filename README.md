@@ -8,7 +8,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 
 :compass: [samuelexferri.com](https://www.samuelexferri.com)
 
-:email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
+:email: [&#115;&#097;&#109;&#117;&#101;&#108;&#101;&#120;&#102;&#101;&#114;&#114;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](mailto:&#115;&#097;&#109;&#117;&#101;&#108;&#101;&#120;&#102;&#101;&#114;&#114;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
 
 :telephone_receiver: Private
 
