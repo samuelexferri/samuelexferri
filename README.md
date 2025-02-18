@@ -17,8 +17,6 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -26,7 +24,7 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 > 🔑 25 Private Repositories 
  > 
 
- Last Updated on 17/02/2025 12:28:44 UTC
+ Last Updated on 18/02/2025 12:28:04 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
