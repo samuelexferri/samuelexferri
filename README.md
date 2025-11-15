@@ -15,16 +15,16 @@ Software Engineer graduated in in the master’s course of Computer Science Engi
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 1.7 MB Used in GitHub's Storage 
+> 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 
- Last Updated on 14/11/2025 12:33:55 UTC
+ Last Updated on 15/11/2025 12:29:59 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
