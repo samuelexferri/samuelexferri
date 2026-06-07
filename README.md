@@ -1,6 +1,6 @@
 ## Hello I'm Samuele Ferri! 👋
 
-<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
+<p align='center'><img width=300 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/SXF%20Poly.svg"></p>
 
 ### About me
 
@@ -9,18 +9,19 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 1.8 MB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 1.8 MB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
+>
+> 📜 20 Public Repositories
+>
+> 🔑 29 Private Repositories
 
- Last Updated on 07/06/2026 13:44:39 UTC
+Last Updated on 07/06/2026 13:44:39 UTC
+
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
