@@ -1,0 +1,27 @@
+name: GitHub Data
+
+on:
+  schedule:
+    - cron: "00 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update Readme with GitHub Data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: .github/scripts/update-readme-stats.sh
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --cached --quiet || git commit -m "Updated GitHub Data"
+          git push
